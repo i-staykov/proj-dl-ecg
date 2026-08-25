@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Notebook
+.ipynb_checkpoints/
+
+# Model artefacts / data
+*.pth
+*.pt
+*.csv
+data/
+
+# OS
+.DS_Store
