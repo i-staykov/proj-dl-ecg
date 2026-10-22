@@ -4,7 +4,7 @@ Detecting life-threatening ventricular arrhythmias in single heartbeats, where *
 than a false alarm** — and then showing what the model actually looked at.
 
 Course project for **Deep Learning**, Hasso-Plattner-Institut, Feb–Mar 2026.
-Gustav Freitag · Ivaylo Staykov · supervised by Pedro de Macedo Gomes.
+Ivaylo Staykov · Gustav Freitag · supervised by Pedro de Macedo Gomes. Report and code graded at 1.0 (A+).
 
 | | MLP baseline | **1D-CNN** |
 | :--- | ---: | ---: |
